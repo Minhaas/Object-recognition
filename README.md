@@ -29,6 +29,8 @@ Step 7: Open jupyter notebook (type jupyter notebook in your terminal) and run t
 
 This will create a modified image file named image_new.png, which contains the bounding box for your image.
 
+Step 8: To print the image use the file print.py
+
 
 
 
