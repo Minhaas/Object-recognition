@@ -26,6 +26,10 @@ Step 6: Download the image. Name the image as image.png
 
 Step 7: Open jupyter notebook (type jupyter notebook in your terminal) and run the codes.
 
+This will create a modified image file named image_new.png, which contains the bounding box for your image.
+
+
+
 
 
 
